@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Time System",
+    "description": "Time system with functions for addon creators ",
+    "uuid": "fcc6d849-e020-4b79-bec6-0ef02a32bc22",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "_",
+      "uuid": "84886e7f-6ba8-4a53-99a3-0567103c8340",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": {
+    "experimental_custom_ui": false,
+    "chemistry": false
+  },
+  "metadata": {
+    "authors": "StevenXFk",
+    "url": "https://github.com/StevenXoFk/Time-System"
+  }
+}
