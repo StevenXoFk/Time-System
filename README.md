@@ -10,3 +10,8 @@
 -   `/function score/reset`: This is to reset the scores
 
 -   `/give @s command_block`: use the command block and put it on repeat and on 20 ticks, this is to start the system, then put the command `/function score/scores` on it
+````
+
+Any modification or anything you want to put is up to you, this system is free to use, so you can modify anything
+
+Any question or suggestion tell me by Discord 'steven.lmao'
