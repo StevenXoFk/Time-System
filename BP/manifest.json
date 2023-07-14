@@ -34,5 +34,23 @@
   "metadata": {
     "authors": "StevenXFk",
     "url": "https://github.com/StevenXoFk/Time-System"
-  }
+  },
+      "dependencies": [ 
+         { 
+             "module_name": "@minecraft/server", 
+             "version": "1.4.0-beta" 
+         }, 
+         { 
+             "module_name": "@minecraft/server-ui", 
+             "version": "1.2.0-beta" 
+         }, 
+         { 
+             "uuid": "1cec5ef3-4b03-49da-a588-4640a6d172d5", 
+             "version": [ 
+                 1, 
+                 0, 
+                 0 
+             ] 
+         } 
+     ]
 }
